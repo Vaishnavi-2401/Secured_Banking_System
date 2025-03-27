@@ -44,12 +44,12 @@ Ensure you have a C compiler installed, such as GCC.
 ## 🚀 How to Run the Program
 ### 🔹 Compilation:
 ```sh
-gcc password_protected.c -o banking_system
+gcc password_protected.c
 ```
 
 ### 🔹 Execution:
 ```sh
-./banking_system
+./a.out
 ```
 
 ### 🔹 Login Credentials (For Testing):
