@@ -42,15 +42,14 @@ It demonstrates authentication, structured data storage, and security concepts u
 Ensure you have a C compiler installed, such as GCC.
 
 ## 🚀 How to Run the Program
-### 🔹 Compilation:
-```sh
-gcc password_protected.c
-```
+### 🔹 Clone or Download the Repository  
+git clone https://github.com/Vaishnavi-2401/Secured_Banking_System.git
 
-### 🔹 Execution:
-```sh
-./a.out
-```
+### 🔹 Compile the Code
+gcc password_protected.c -o password_protected
+
+### 🔹 Run the Program
+./password_protected
 
 ### 🔹 Login Credentials (For Testing):
 - **Username:** `vaishnavi_chirmade`
